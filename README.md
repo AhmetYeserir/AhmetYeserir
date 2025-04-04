@@ -1,59 +1,92 @@
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    Ahmet Yeşeriroğlu
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=Ahmet+Yeşeriroğlu" alt="Name Typing Animation" />
   
   <h3>Full-Stack Developer | React Specialist | Mobile Developer</h3>
 
+  <!-- Premium Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/ahmetyeserir/" target="_blank">
-      <img src="https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetyeserir/"/>
     </a>
-    <a href="mailto:ahmetyeserirogluu@gmail.com">
-      <img src="https://img.shields.io/badge/-ahmetyeserirogluu@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <a href="mailto:ahmetyeserirogluu@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:ahmetyeserirogluu@gmail.com"/>
     </a>
   </p>
 </div>
 
-## 🔧 Core Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,firebase,git,reactnative" alt="Tech Stack" style="margin: 5px"/>
-</p>
+## 🛠 Technical Stack
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="React Native" />
+        <br>React Native
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🏆 Featured Projects
 
 ### 🏢 Intelliium Career Portal
 **Frontend Developer** | React · TypeScript · TailwindCSS  
-- Official career platform for Intelliium Tech company
-- Developed responsive UI with performance optimizations
+- Developed the production career platform for Intelliium Tech
+- Implemented responsive design with performance optimizations
 - Live at: [kariyer.intellium.com.tr](https://kariyer.intellium.com.tr)
 
 ### 🌐 OslaWebsites
 **Full-Stack Developer** | React · Node.js · MongoDB  
-- Premium website developed for a German language course (Private Repository)
-- Implemented multi-language support and payment integration
+- Premium website for German language course (Private Codebase)
+- Features: Multi-language support, payment integration
 
 ### 📱 Community Marketplace
 **Mobile Developer** | React Native · Firebase  
-- Second-hand trading application with real-time features
-- Includes chat system and location-based listings
-- [View Code](https://github.com/AhmetYeserir/community-marketplace)
+- Second-hand trading app with real-time chat
+- Features: Geolocation, image uploads, user ratings
+- [View Repository](https://github.com/AhmetYeserir/community-marketplace)
 
-## 📈 GitHub Statistics
-
+## 📊 GitHub Analytics
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AhmetYeserir&show_icons=true&theme=radical&hide_border=true"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetYeserir&theme=radical&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=AhmetYeserir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetYeserir&theme=radical&hide_border=true" />
 </div>
 
-## 🚀 Current Focus
-- Building performant React applications
-- Expanding TypeScript expertise
-- Developing cross-platform mobile solutions
+## 🌟 Currently
+- 🔭 Building scalable React applications
+- 🌱 Mastering advanced TypeScript patterns
+- 💬 Ask me about frontend architecture
 
 <div align="center">
   <br/>
-  <i>"The best error message is the one that never shows up." - Thomas Fuchs</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
 </div>
