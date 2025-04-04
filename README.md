@@ -1,15 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=38BCF7&center=true&vCenter=true&width=500&lines=Ahmet+Yeşeriroğlu" alt="Name Typing Animation" />
+  <!-- Static Name Header with Beautiful Typography -->
+  <h1>
+    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #38B2AC; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Ahmet Yeşeriroğlu</span>
+  </h1>
   
   <h3>Full-Stack Developer | React Specialist | Mobile Developer</h3>
 
-  <!-- Premium Social Badges -->
+  <!-- Enlarged Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/ahmetyeserir/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetyeserir/"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmetyeserir/" height="28"/>
     </a>
     <a href="mailto:ahmetyeserirogluu@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&link=mailto:ahmetyeserirogluu@gmail.com"/>
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmetyeserirogluu@gmail.com" height="28"/>
     </a>
   </p>
 </div>
@@ -17,6 +20,7 @@
 ## 🛠 Technical Stack
 <div align="center">
   <table>
+    <!-- Row 1 -->
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -35,22 +39,61 @@
         <br>TypeScript
       </td>
     </tr>
+    <!-- Row 2 -->
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
         <br>Firebase
+      </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br>CSS3
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+    </tr>
+    <!-- Row 4 -->
+    <tr>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="React Native" />
         <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
       </td>
     </tr>
   </table>
