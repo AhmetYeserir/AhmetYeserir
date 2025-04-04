@@ -6,7 +6,7 @@
 <h3 align="center">Fırat University <br>
 Software Engineering Student</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmet-yeşeriroğlu-63071922a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ahmet Yeşeriroğlu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmetyeserir/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ahmet Yeşeriroğlu" height="30" width="40" /></a>
 </p>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmetYeserir&label=Profile Views&color=yellow&style=flat" alt="AhmetYeserir" /> </p>
