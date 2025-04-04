@@ -121,7 +121,6 @@
 ## 📊 GitHub Analytics
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=AhmetYeserir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetYeserir&theme=radical&hide_border=true" />
 </div>
 
 ## 🌟 Currently
