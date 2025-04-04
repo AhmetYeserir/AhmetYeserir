@@ -1,25 +1,9 @@
 <div align="center">
   <!-- Static Name Header with Beautiful Typography -->
-<h1>
-  <span style="
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #38B2AC;
-    font-weight: 700;
-    font-size: 2.5em;
-    animation: fadeIn 2s ease-in-out;
-  ">
-    Ahmet Yeşeriroğlu
-  </span>
-</h1>
+  <h1>
+    <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #38B2AC; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">💻Ahmet Yeşeriroğlu</span>
+  </h1>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
-  
   <h3>Full-Stack Developer | React Specialist | Mobile Developer</h3>
 
   <!-- Enlarged Social Badges -->
