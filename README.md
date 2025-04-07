@@ -83,9 +83,6 @@
         <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="React Native" />
         <br>React Native
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-        <br>Flutter
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
