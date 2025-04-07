@@ -80,7 +80,7 @@
     <!-- Row 4 -->
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="React Native" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
         <br>React Native
       </td>
       </td>
