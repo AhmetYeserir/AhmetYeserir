@@ -26,17 +26,18 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
       </td>
+     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c#" width="48" height="48" alt="C#" />
+        <br>C#
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
       </td>
     </tr>
     <!-- Row 2 -->
@@ -46,16 +47,16 @@
         <br>Node.js
       </td>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
         <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
       </td>
     </tr>
     <!-- Row 3 -->
@@ -83,11 +84,18 @@
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
         <br>React Native
       </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+      </td>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
-      </td>
     </tr>
   </table>
 </div>
